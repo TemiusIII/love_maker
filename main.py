@@ -3,7 +3,7 @@ import telebot
 from random import choice
 from time import sleep
 
-TOKEN = 'YOUR TOKEN'
+TOKEN = '5855804994:AAGbn45aFYQtHq5bTRrU0ZMA-Ry2gYoO1oU'
 bot = telebot.TeleBot(TOKEN)
 
 HEART = '🤍'
