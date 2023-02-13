@@ -1,5 +1,5 @@
 # Love maker bot
-My version of https://github.com/posloader/telegram-heart-magic. I rewrote this for bots, so everyone could use it.
+My version of https://github.com/posloader/telegram-heart-magic. I rewrote this for bots and changed the animations.
 
 https://t.me/love_maker_bbot - this is my bot (might be turned off btw)
 
